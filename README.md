@@ -1,7 +1,7 @@
 # WeChat-applet
 微信小应用，微信小程序资源汇总整理，涵括微信 Web 开发工具、开发框架、开发教程、以及官方文档和相关资源的整理
 ##这个威力太大放在显眼的地方
-- [微信小程序开发资源汇总]( 💯http://wxappfans.com)
+- [微信小程序开发资源汇总](http://wxappfans.com)
 
 ## 官方开发文档
 - [1：官方工具](https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/download.html?t=201714)
