@@ -72,6 +72,8 @@
 - [微信小程序-程序员老黄历(xujinyang/CoderCalendar-WeApp)](https://github.com/xujinyang/CoderCalendar-WeApp)
 
 ## 开发教程(视频,百度云资源)
+
+- [小程序资源集合含工具插件,视频教程，案例源码252个](http://pan.baidu.com/s/1qYbFMFi) 密码：fmri
 - [文本教程链接](http://pan.baidu.com/s/1qYk0Ubq)  密码：078s
 - [视频教程链接](http://pan.baidu.com/s/1pLS2q63) 密码：ehp9
 - [Demo代码链接](http://pan.baidu.com/s/1pLHDaNT) 密码：0xjx
