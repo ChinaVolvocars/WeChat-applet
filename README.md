@@ -24,13 +24,13 @@
 - [微信小程序云端增强 SDK XpmJS ](https://github.com/xpmjs/xpmjs)
 ## 开发框架
 
-## 开发教程(视频)
+## 开发教程(视频,百度云资源)
 - [文本教程链接](http://pan.baidu.com/s/1qYk0Ubq)  密码：078s
-视频教程链接：http://pan.baidu.com/s/1pLS2q63 密码：ehp9
-Demo代码链接：http://pan.baidu.com/s/1pLHDaNT 密码：0xjx
-基础课程链接：http://pan.baidu.com/s/1slwAnpz 密码：3z3r
-官方工具包链接：http://pan.baidu.com/s/1slaV6oP 密码：trn5
-其他（UI，插件等）链接：http://pan.baidu.com/s/1mhKQFzy 密码：60k7
+- [视频教程链接](http://pan.baidu.com/s/1pLS2q63) 密码：ehp9
+- [Demo代码链接](http://pan.baidu.com/s/1pLHDaNT) 密码：0xjx
+- [基础课程链接](http://pan.baidu.com/s/1slwAnpz) 密码：3z3r
+- [官方工具包链接](http://pan.baidu.com/s/1slaV6oP) 密码：trn5
+- [其他（UI，插件等）](链接：http://pan.baidu.com/s/1mhKQFzy) 密码：60k7
 
 ## 资源
 - [1.Demo集合](http://download.csdn.net/album/detail/3518)
