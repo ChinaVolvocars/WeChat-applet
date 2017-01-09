@@ -13,9 +13,7 @@
 
 ## 开发工具
 - [wepy 一个支持组件化的小程序开发框架](https://github.com/wepyjs/wepy)
-- ~~[微信小程序 (应用号) 微信 web 开发者工具破解版(DiyCode)](http://www.diycode.cc/topics/308)~~
 - [微信小程序配置及目录在线生成工具](https://weapptool.com)
-- ~~[IDE + 破解 + Demo(gavinkwoe/weapp-ide-crack)](https://github.com/gavinkwoe/weapp-ide-crack)~~
 - [Egret Wing 3.2.x 支持微信小程序实时预览的IDE)](http://developer.egret.com/cn/github/egret-docs/Wing/update/update320/index.html)
 - [Labrador 支持ES6/7的微信小程序组件化开发框架](https://github.com/maichong/labrador)
 - [WEPT 一个微信小程序实时运行环境](https://github.com/chemzqm/wept)
@@ -79,7 +77,7 @@
 - [Demo代码链接](http://pan.baidu.com/s/1pLHDaNT) 密码：0xjx
 - [基础课程链接](http://pan.baidu.com/s/1slwAnpz) 密码：3z3r
 - [官方工具包链接](http://pan.baidu.com/s/1slaV6oP) 密码：trn5
-- [其他UI插件等](链接：http://pan.baidu.com/s/1mhKQFzy) 密码：60k7
+- [其他UI插件](http://pan.baidu.com/s/1mhKQFzy) 密码：60k7
 - [视频教程出品微信小程序开发视频教程](http://wxopen.club/topic/582d4999745f85100cd13a65)
 - [全网首个微信小程序开发视频教程](http://www.howzhi.com/course/15035/)
 - [微信小程序开发实战第一季(CSDN)](http://edu.csdn.net/course/detail/3011)
