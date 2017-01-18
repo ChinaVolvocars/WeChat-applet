@@ -94,3 +94,5 @@
 - [1.Demo集合](http://download.csdn.net/album/detail/3518)
 - [2.Demo集合](http://download.csdn.net/album/detail/3536)
 
+- [WeToast——微信小程序toast增强插件](https://github.com/kiinlam/wetoast)
+- [wxParse-微信小程序富文本解析自定义组件，支持HTML及markdown解析](https://github.com/icindy/wxParse)
