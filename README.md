@@ -1,5 +1,35 @@
 # WeChat-applet
 微信小应用，微信小程序资源汇总整理，涵括微信 Web 开发工具、开发框架、开发教程、以及官方文档和相关资源的整理
+
+## 科学上网
+*假设你是个勤奋的同学，你总有一天会强烈需要它们，上帝保佑他们吧。*
+
+* [SpechtLite](https://github.com/zhuhaow/SpechtLite) - 支持 Shadowsocks 及规则管理的高效率代理。[![Open-Source Software][OSS Icon]](https://github.com/shadowsocks) ![Freeware][Freeware Icon] ![hot][hot Icon]
+* [ShadowsocksX](http://shadowsocks.org/) - 一个快速的隧道代理，可以帮助你绕过防火墙。[![Open-Source Software][OSS Icon]](https://github.com/shadowsocks) ![Freeware][Freeware Icon] ![hot][hot Icon]
+* [ShadowsocksX-NG](https://github.com/qiuyuzhou/ShadowsocksX-NG) - 一款ShadowsocksX客户端软件。[![Open-Source Software][OSS Icon]](https://github.com/qiuyuzhou/ShadowsocksX-NG) ![Freeware][Freeware Icon]
+* [Lantern](https://getlantern.org) - 科学上网。[![Open-Source Software][OSS Icon]](https://github.com/getlantern/lantern) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon] ![hot][hot Icon]
+* [鱼摆摆](https://ybb1024.com/) - 科学上网。
+* [Tunnelblick](https://tunnelblick.net/downloads.html) - OpenVPN的免费软件。![Freeware][Freeware Icon]
+* [GoAgentX](https://github.com/OldFrank/GoAgentX) - 科学上网。[![Open-Source Software][OSS Icon]](https://github.com/getlantern/lantern) ![Freeware][Freeware Icon]
+* [Surge](http://surge.run/manual/) - 科学上网。![Freeware][Freeware Icon]
+* [云梯](https://www.ytpub.com/) - 在圈内小有名气的VPN服务提供商。![hot][hot Icon]![tuijian][tuijian Icon]
+* [srocket](http://50r.cn/ifn76I) - 开启科学上网。![Freeware][Freeware Icon]
+* [LoCoVPN](https://www.locovpn.co/mannul/) - 每天签到可获得2小时免费VPN加速。![Freeware][Freeware Icon]
+* [二师兄VPN](http://www.2-vpn4.cc/home.action) - 提供无限流量、无限续期免费VPN账号。![Freeware][Freeware Icon]
+* [GTX加速器](http://www.jsqgtx.cc/DownLoad) - 每天签到领取500M流量。![Freeware][Freeware Icon]
+* [GreenVPN](http://applewoods.org/article/) - 注册激活送免费VPN加速流量。![Freeware][Freeware Icon]
+* [风驰VPN](http://fengchinet2.com/) - 无限流量、无限续期的免费VPN加速服务。![Freeware][Freeware Icon]
+* [开眼](https://chrome.google.com/webstore/detail/%E5%BC%80%E7%9C%BC/kpamljbkjaaljbcgobdealnpalcgicna?hl=zh-CN) - Chrome插件免费的科学上网利器。![Freeware][Freeware Icon]
+* [PlutoX](https://www.plutox.top/) - 一款网络调试工具，科学上网工具。[![App Store][app-store Icon]](https://itunes.apple.com/us/app/manico/id1176077430)
+
+
+
+
+
+
+
+
+
 ##这个威力太大放在显眼的地方
 - [微信小程序开发资源汇总](http://wxappfans.com)
 
